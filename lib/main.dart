@@ -5,7 +5,6 @@ import 'package:social_app/network/cache/cache_helper.dart';
 import 'package:social_app/screens/authenticaton/social_login/social_login_cubit/cubit.dart';
 import 'package:social_app/screens/authenticaton/social_login/social_login_screen.dart';
 import 'package:social_app/screens/authenticaton/social_register/social_register_cubit/cubit.dart';
-import 'package:social_app/screens/authenticaton/social_register/social_register_screen.dart';
 import 'package:social_app/screens/layout/social_layout.dart';
 import 'package:social_app/social_cubit/cubit.dart';
 
@@ -32,7 +31,9 @@ Future <void> main() async{
     startWidget: widget,
   ));
 }
-
+// login
+// hello hema 12_7
+// hello hema 12_7
 class MyApp extends StatelessWidget {
   final Widget startWidget;
    MyApp({required this.startWidget});
